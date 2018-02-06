@@ -1,5 +1,6 @@
 # HALIX 9002
 [![License](http://img.shields.io/:license-gpl-blue.svg?style=flat)](http://opensource.org/licenses/GPL-2.0)
+[![Open Source Helpers](https://www.codetriage.com/librelabucm/halix9000/badges/users.svg)](https://www.codetriage.com/librelabucm/halix9000)
 
 A multipurpose Telegram bot run by the [LibreLabUCM](https://github.com/LibreLabUCM) association.
 Services are provided by different plugins.
